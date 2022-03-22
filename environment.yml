@@ -1,0 +1,11 @@
+name: mlns
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - jupyter
+  - networkx
+  - pandas
+  - osmnx
+  - tqdm
+  - geocoder
